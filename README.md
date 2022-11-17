@@ -12,11 +12,12 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <div>
   <h3> Hi, my name is</h3>
-  
+    <h1> Dharmendra Awasthi.</h1>
+    <h2>I am a full stack engineer.</h2>
+  </div>
   <h1>
-    Dharmendra Awasthi.
-    I am a full stack engineer.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
