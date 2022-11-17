@@ -12,7 +12,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <h3> Hi, my name is</h3><br/>
+  <h3> Hi, my name is</h3>
   <h1>Dharmendra Awasthi.</h1>
   <h1>
 I am a full stack engineer.
