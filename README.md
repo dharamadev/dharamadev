@@ -12,13 +12,11 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <div>
-  <h3> Hi, my name is</h3>
-    <h1> Dharmendra Awasthi.</h1>
-    <h2>I am a Senior Software engineer.</h2>
-  </div>
-  <h1>
+   <h1>
+      Hi there, my name is
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     Dharmendra Awasthi.
+     <p>(Senior Software Engineer)</p>
   </h1>
 </div>
 <div align="center">
@@ -28,14 +26,25 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Senior Software Engineer, contributing to Estimate, Design, Develop, Review and Deploy backend for highly scalable enterprise system.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing. 
+
+- :man_teacher: Mentoring to fresh graduates or Junior Engineers. 
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharampro)
+### How to reach me: 
+
+- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharampro)
+- :envelope: dharmendrakawasthi@gmail.com
+- <button name="button" onclick="http://www.google.com">Click me</button>
+
+
+### Download my resume: 
+<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp](https://mattermost.com](https://drive.google.com/uc?export=download&id=1TU67syaWgEa4qv6mQiOV12Ush_dkBWR0">Download Resume</button></a>
+
 
 ---
 
