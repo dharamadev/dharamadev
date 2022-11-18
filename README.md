@@ -15,7 +15,7 @@
   <div>
   <h3> Hi, my name is</h3>
     <h1> Dharmendra Awasthi.</h1>
-    <h2>I am a full stack engineer.</h2>
+    <h2>I am a Senior Software engineer.</h2>
   </div>
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -52,9 +52,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### :fire: My Streak :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dharampro&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### :fire: Programing Language Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharampro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- --- -->
