@@ -63,6 +63,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: Programing Language Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharampro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dharampro)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
 <!-- --- -->
 
 <!-- ### :writing_hand: Blog Posts : -->
