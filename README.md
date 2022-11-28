@@ -39,7 +39,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharampro)
 - :envelope: dharmendrakawasthi@gmail.com
-- <button name="button" onclick="http://www.google.com">Click me</button>
+- <a name="button" onclick="http://www.google.com">Download Resume</a>
 
 
 ---
