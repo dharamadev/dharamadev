@@ -12,8 +12,6 @@
     <a href="https://www.linkedin.com/in/dharampro">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://drive.google.com/uc?export=download&id=1TU67syaWgEa4qv6mQiOV12Ush_dkBWR0">Resume</a>
-
 <!--     <a href="https://www.youtube.com/channel/UClP1onSFVbicHGNLn_nz4vQ">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a> -->
