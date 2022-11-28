@@ -39,7 +39,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharampro)
 - :envelope: dharmendrakawasthi@gmail.com
-- <a href="http://www.google.com">Download Resume</a>
+- <a href="http://www.google.com](https://drive.google.com/uc?export=download&id=1TU67syaWgEa4qv6mQiOV12Ush_dkBWR0">Download Resume</a>
 
 
 ---
