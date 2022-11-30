@@ -29,11 +29,11 @@
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Senior Software Engineer, contributing to Estimate, Design, Develop, Review and Deploy backend for highly scalable enterprise system.
 
-- :seedling: Exploring Technical Content Writing. 
+- :seedling: Exploring Technical Content Creation. 
 
 - :man_teacher: Mentoring to fresh graduates or Junior Engineers. 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on leetcode and read tech articles.
 
 ### How to reach me: 
 
