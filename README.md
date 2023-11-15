@@ -27,7 +27,7 @@
 
 ### :woman_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India :india:.
-- :telescope: I’m working as a Senior Software Engineer, contributing to Estimate, Design, Develop, Review and Deploy backend for highly scalable enterprise system.
+- :telescope: I’m working as a Tech Lead, contributing to Estimate, Design, Develop, Review and Deploy backend for highly scalable enterprise system.
 
 - :seedling: Exploring Technical Content Creation. 
 
@@ -39,7 +39,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharampro)
 - :envelope: dharmendrakawasthi@gmail.com
-- :page_with_curl: <a href="https://drive.google.com/uc?export=download&id=1fLx3Y-sGfvhJGGpukov-YEBAXslUG1n6">Download Resume</a>
+- :page_with_curl: <a href="https://drive.google.com/uc?id=1-hm_0fqO2Ni2U9HpSbODry5gdFXQgr6n&export=download">Download Resume</a>
 
 
 ---
