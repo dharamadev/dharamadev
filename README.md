@@ -1,5 +1,5 @@
 <div align="center">
-     <img src="https://github.com/dharampro/dharampro/blob/main/1639995431463.jpeg" width="1200" height="300"/>
+     <img src="https://github.com/dharamadev/dharamadev/blob/main/1639995431463.jpeg" width="1200" height="300"/>
    </div>
 <div id="header" align="center">
      <h1>
@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=dharampro&style=flat-square&color=blue" alt=""/>  
+  <img src="https://komarev.com/ghpvc/?username=dharamadev&style=flat-square&color=blue" alt=""/>  
 </div>
 
 
@@ -37,7 +37,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### How to reach me: 
 
-- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharampro)
+- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharamadev)
 - :envelope: dharmendrakawasthi@gmail.com
 - :page_with_curl: <a href="https://drive.google.com/uc?id=1-hm_0fqO2Ni2U9HpSbODry5gdFXQgr6n&export=download">Download Resume</a>
 
@@ -58,10 +58,10 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Streak :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dharampro&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dharamadev&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### :fire: Programing Language Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharampro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharamadev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- --- -->
