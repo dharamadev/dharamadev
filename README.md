@@ -9,13 +9,13 @@
      <p>(Tech Lead)</p>
   </h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/dharampro">
+    <a href="https://www.linkedin.com/in/dharamadev">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 <!--     <a href="https://www.youtube.com/channel/UClP1onSFVbicHGNLn_nz4vQ">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a> -->
-    <a href="https://twitter.com/dharampro">
+    <a href="https://twitter.com/dharamadev">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
